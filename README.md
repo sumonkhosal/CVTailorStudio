@@ -1,5 +1,5 @@
 # CVTailorStudio
-# AI CV Tailor Tool (Local App – BYO API Key)
+AI CV Tailor Tool (Local App – BYO API Key)
 
 A lightweight Python application that helps you **analyze, improve, and tailor your CV** based on a job description using AI.
 
