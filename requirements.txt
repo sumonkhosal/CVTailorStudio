@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+python-docx
+jinja2
+google-generativeai
+openai
+anthropic
+reportlab
