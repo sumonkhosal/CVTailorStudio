@@ -6,3 +6,5 @@ google-generativeai
 openai
 anthropic
 reportlab
+flask
+gunicorn
